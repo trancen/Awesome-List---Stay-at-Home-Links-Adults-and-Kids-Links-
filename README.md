@@ -1,1 +1,26 @@
-# Awesome-List---Stay-at-Home-Links-Adults-and-Kids-Links-
+
+
+#### **CHILDREN**
+
+
+
+Educational 
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+
+
+
+Videos
+
+
+
+| **Crash Course Kids** | https://www.youtube.com/user/crashcoursekids |
+| --------------------- | -------------------------------------------- |
+| **Science Channel**   | https://www.youtube.com/user/ScienceChannel  |
+|                       |                                              |
+|                       |                                              |
+
