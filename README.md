@@ -28,7 +28,8 @@ Educational
 
 Book marks will update list. 
 
+| Channel Name          | Link                                         |
+| --------------------- | -------------------------------------------- |
+|                       | https://github.com/TheJoin95/covid19-market-waiting-times|
+|                       | https://lineups.live/                        |
 
-
-|                       | https://github.com/TheJoin95/covid19-market-waiting-times |
-|                       | https://lineups.live/                                             |
